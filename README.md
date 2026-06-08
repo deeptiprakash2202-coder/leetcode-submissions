@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,4 +17,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 <!---LeetCode Topics End-->
