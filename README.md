@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
