@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 <!---LeetCode Topics End-->
