@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
