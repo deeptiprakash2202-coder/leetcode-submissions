@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -79,4 +80,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
