@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
