@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -67,12 +68,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
