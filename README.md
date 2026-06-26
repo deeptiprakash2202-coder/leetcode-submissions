@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
