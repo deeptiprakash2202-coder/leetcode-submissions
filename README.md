@@ -105,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
