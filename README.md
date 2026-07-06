@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1528-shuffle-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -113,5 +114,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1678-goal-parser-interpretation/) | Easy |
 <!---LeetCode Topics End-->
