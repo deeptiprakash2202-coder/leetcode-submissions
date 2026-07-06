@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0709-to-lower-case](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
