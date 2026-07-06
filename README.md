@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
