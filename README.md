@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -117,4 +118,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 <!---LeetCode Topics End-->
