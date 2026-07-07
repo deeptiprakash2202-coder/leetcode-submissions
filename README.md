@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Dynamic Programming
