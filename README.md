@@ -87,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
