@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1051-height-checker](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Math
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [1051-height-checker](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1051-height-checker/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sliding Window
