@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -155,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
