@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Greedy
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
