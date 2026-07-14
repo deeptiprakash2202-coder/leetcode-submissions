@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Greedy
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1051-height-checker/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
