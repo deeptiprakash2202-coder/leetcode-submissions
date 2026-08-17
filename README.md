@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Enumeration
