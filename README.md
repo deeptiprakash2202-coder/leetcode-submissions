@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -198,5 +199,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
