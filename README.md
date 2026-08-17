@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Enumeration
@@ -192,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
