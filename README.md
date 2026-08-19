@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0832-flipping-an-image/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
@@ -201,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/deeptiprakash2202-coder/leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
